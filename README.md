@@ -1,5 +1,5 @@
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lim018&show_icons=true&hide=stars,issues,contribs&theme=radical&hide_title=true)](https://github.com/Lim018)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lim018&theme=dark&hide_border=false)
 
 </div>
